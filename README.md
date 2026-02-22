@@ -32,8 +32,8 @@ This project demonstrates key OOP concepts, including:
 ## Technologies Used
 
 - Java 17  
-- Object-Oriented Programming principles  
-- Console-based / GUI interface (replace with what you used)
+- Object-Oriented Programming principles
+- UML diagram 
 
 ---
 
